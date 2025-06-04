@@ -53,7 +53,7 @@ cv2.setMouseCallback('RGB', RGB)
 cap = cv2.VideoCapture('parking1.mp4')
 
 #Loading Class Labels
-my_file = open("coco.txt", "r")
+my_file = open("dataset.txt", "r")
 data = my_file.read()
 class_list = data.split("\n")
 
