@@ -71,6 +71,9 @@ python parking_detector.py
 ```
 
 ### Results
+
+https://github.com/user-attachments/assets/50218b51-c030-4d90-a79b-b526438a45cd
+
 Produces annotated video frames where each parking slot is highlighted and labeled as VACANT or OCCUPIED, enabling quick visual assessment of available spaces.
 
 Demonstrates how classical OpenCV-based image processing can be used to build a practical smart-parking helper that can be extended to real-time deployment with minimal additional work.
