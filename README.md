@@ -60,14 +60,14 @@ pip install numpy
 ```
 ### 4. Configure parking slots and video source
 
-Set the input video path or camera index in the main script (for example, main.py or parking_detection.py).
+Set the input video path or camera index in the main script (for example, parking_detection.py).
 
 Define the coordinates of each parking slot polygon/rectangle in a configuration section or file so the algorithm knows which regions to evaluate.
 
 ### 5. Run the application
 
 ```bash
-python main.py
+python parking_detector.py
 ```
 
 ### Results
