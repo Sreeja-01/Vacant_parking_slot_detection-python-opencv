@@ -70,7 +70,7 @@ Define the coordinates of each parking slot polygon/rectangle in a configuration
 python parking_detector.py
 ```
 
-Results1
+### Results
 
 https://github.com/user-attachments/assets/50218b51-c030-4d90-a79b-b526438a45cd
 
